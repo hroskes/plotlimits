@@ -3,6 +3,7 @@
 import array
 import math
 import os
+import subprocess
 import sys
 
 from collections import namedtuple
